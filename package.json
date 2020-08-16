@@ -1,0 +1,27 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "Un script qui télécharge toutes les données contenues sur un site Web pour les sauvegarder",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duamelo/Blackhole.git"
+  },
+  "keywords": [
+    "blackhole",
+    "Node",
+    "Js"
+  ],
+  "author": "Duamel DOSSEH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duamelo/Blackhole/issues"
+  },
+  "homepage": "https://github.com/Duamelo/Blackhole#readme"
+}
