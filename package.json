@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Duamelo/Blackhole/issues"
   },
-  "homepage": "https://github.com/Duamelo/Blackhole#readme"
+  "homepage": "https://github.com/Duamelo/Blackhole#readme",
+  "dependencies": {
+    "async-duamelo": "^1.0.0"
+  }
 }

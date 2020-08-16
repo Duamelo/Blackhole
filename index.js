@@ -1,4 +1,4 @@
-var async = require("./lib/async.js");
+var async = require("async-duamelo");
 var request = require("./lib/request.js");
 
 var config = require("./config.json");
